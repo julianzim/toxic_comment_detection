@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+Copy_toxic_comment_detection.ipynb
 example_toxic.ipynb
 .ipynb_checkpoints
 .Python
